@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Speech Synthesis**
 
-- 🤝 I’m looking for help with **o**
-
 - 📫 How to reach me **puremint09@gmail.com**
 
 
